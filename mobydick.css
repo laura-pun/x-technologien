@@ -1,0 +1,40 @@
+* {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #c4e3ed;
+    font-family: arial, helvetica, sans-serif
+}
+
+tei-title{
+  font-weight: bold;;
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+
+tei-head {
+  font-weight: bold;
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+tei-p {
+  display: block;
+}
+
+tei-speaker {
+  color: #18414e;
+}
+
+tei-stage {
+  font-style: italic;
+  color: #30819c;
+}
+
+tei-sp {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
